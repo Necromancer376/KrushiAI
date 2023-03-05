@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295154771600",
+    "project_id": "krushiaiadmindata",
+    "storage_bucket": "krushiaiadmindata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295154771600:android:1e3ea0c43edda55bde1a15",
+        "android_client_info": {
+          "package_name": "com.example.agrithonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295154771600-np8s9l4e4pmvpa8i6it4juv61qib6fu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8eCNeZV4hsyiAt8u46N4YErxfg3sovWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295154771600-np8s9l4e4pmvpa8i6it4juv61qib6fu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
